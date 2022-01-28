@@ -1,2 +1,2 @@
-# escape-passport
-The repo containing the description of my work for EntreLibros.
+# Escape Passport
+The repo containing the description of my design work for Escape Passport.
